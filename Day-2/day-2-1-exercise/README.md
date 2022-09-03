@@ -28,16 +28,6 @@ e.g. When you hit **run**, this is what should happen:
 2. Think about what you learnt about subscripting.
 3. Think about type conversion.
 
-# Test Your Code
-
-Before checking the solution, try copy-pasting your code into this repl: 
-
-[https://repl.it/@appbrewery/day-2-1-test-your-code](https://repl.it/@appbrewery/day-2-1-test-your-code)
-
-This repl includes my testing code that will check if your code meets this assignment's objectives. 
-
-
-
 
 # Solution
 
