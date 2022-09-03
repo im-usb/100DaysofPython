@@ -1,18 +1,8 @@
 ## Data Types
 
-# UPDATE
-We've moved away from repl.it for coding exercises.
-Check out the new exercises on Coding Rooms with automated submissions.
-
-Login to your Udemy course and head over to the link below to get the sign up link:
-
-[Click here](https://www.udemy.com/course/100-days-of-code/learn/lecture/17825914#questions)
-
 # Instructions
 
 Write a program that adds the digits in a 2 digit number. e.g. if the input was 35, then the output should be 3 + 5 = 8
-
-**Warning.** Do not change the code on lines 1-3. Your program should work for different inputs. e.g. any two-digit number.
 
 # Example Input
 
