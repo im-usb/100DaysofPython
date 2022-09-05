@@ -10,6 +10,6 @@ remainder = number%2
 if(remainder==0):
     print("This is an even number")
 
-elif(remainder==1):
+else:
     print("This is an odd number")
 
