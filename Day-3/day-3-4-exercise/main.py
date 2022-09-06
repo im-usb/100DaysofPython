@@ -11,6 +11,7 @@ if(size=="S"):
   total_bill=15
   if(add_pepperoni == 'Y'):
     total_bill+=2
+
 elif(size=="M"):
   total_bill=20
   if(add_pepperoni == 'Y'):
