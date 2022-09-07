@@ -67,5 +67,5 @@ elif(usr_choice == comp_choice ):
     print(f"Computer chose \n {rps_list[comp_choice]}")
     print("It's a tie")
 
-elif(usr_choice > 2 or comp_choice > 2 or usr_choice < 0 or comp_choice < 0):
+elif(usr_choice > 2 or usr_choice < 0):
   print("Game Over! Please enter the right choice and try again.")
