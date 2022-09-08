@@ -12,7 +12,7 @@ length = 0
 
 for height in student_heights:
   sum_heights += height
-  lenghth +=1
+  length +=1
 
 avg_height = round(sum_heights/length)
 
