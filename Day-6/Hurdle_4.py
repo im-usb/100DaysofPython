@@ -12,7 +12,6 @@ def jump():
     turn_right()     
     move()
     turn_right()
-    move()
     
     while not wall_in_front():
         move()
