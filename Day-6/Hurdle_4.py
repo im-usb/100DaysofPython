@@ -5,7 +5,6 @@ def turn_right():
 
 def jump():
     turn_left()
-    move()
     
     while not right_is_clear():
         move()
