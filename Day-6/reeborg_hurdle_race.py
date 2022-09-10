@@ -5,7 +5,7 @@ def turn_right():
     turn_left()
     turn_left()
 
-def hurdle():
+def jump():
     turn_left()
     move()
     turn_right()
@@ -16,6 +16,6 @@ def hurdle():
     
 for i in range(0,6):
     move()
-    hurdle()
+    jump()
 
     
