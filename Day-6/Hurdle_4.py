@@ -13,7 +13,7 @@ def jump():
     move()
     turn_right()
     
-    while not wall_in_front():
+    while front_is_clear():
         move()
     turn_left()    
 
