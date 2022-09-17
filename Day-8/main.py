@@ -1,6 +1,7 @@
 #Write your code below this line 👇
 def paint_calc(height,width,cover):
   no_of_cans = height * width / cover
+  no_of_cans = round(no_of_cans)
   print(no_of_cans)
 
 
