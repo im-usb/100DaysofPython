@@ -1,5 +1,8 @@
 from replit import clear
 #HINT: You can call clear() to clear the output in the console.
+'''The Program Will declare Highest Bidder as the winner or if in case all the bids are equal, 
+then the winner will be decided based on First come first serve basis'''
+
 def add_new_bidder(name,bid):
   new_dict = {}
   new_dict["name"] = name
